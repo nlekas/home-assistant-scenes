@@ -1,0 +1,20 @@
+id: "1756736784962"
+name: Energetic Pink
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.40, 0.20]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.42, 0.18]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 240
+    color_mode: xy
+    xy_color: [0.38, 0.22]
+metadata: {}
+icon: mdi:heart

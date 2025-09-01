@@ -1,0 +1,20 @@
+id: "1756735993557"
+name: Warm Amber
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.55, 0.42]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.56, 0.43]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.54, 0.41]
+metadata: {}
+icon: mdi:candle

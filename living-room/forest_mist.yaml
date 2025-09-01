@@ -1,0 +1,50 @@
+id: "1756627847751"
+name: Forest Mist
+entities:
+  light.lamp_by_stairs:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.25, 0.45]
+  light.living_room_japanese_paper_latern_candleabra_bulb_1:
+    state: "on"
+    brightness: 155
+    color_mode: xy
+    xy_color: [0.28, 0.48]
+  light.living_room_japanese_paper_latern_candleabra_bulb_2:
+    state: "on"
+    brightness: 150
+    color_mode: xy
+    xy_color: [0.26, 0.46]
+  light.living_room_japanese_paper_latern_candleabra_bulb_3:
+    state: "on"
+    brightness: 145
+    color_mode: xy
+    xy_color: [0.27, 0.47]
+  light.living_room_japanese_paper_latern_candleabra_bulb_4:
+    state: "on"
+    brightness: 135
+    color_mode: xy
+    xy_color: [0.24, 0.44]
+  light.living_room_japanese_paper_latern_candleabra_bulb_5:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.29, 0.49]
+  light.living_room_shelf_lightstrip_plus:
+    state: "on"
+    brightness: 120
+    color_mode: xy
+    xy_color: [0.25, 0.45]
+  light.living_room_table_lamp_fire_place:
+    state: "on"
+    brightness: 130
+    color_mode: xy
+    xy_color: [0.26, 0.46]
+  light.living_room_tv_gradient_lightstrip:
+    state: "on"
+    brightness: 110
+    color_mode: xy
+    xy_color: [0.23, 0.43]
+metadata: {}
+icon: mdi:tree

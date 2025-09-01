@@ -1,0 +1,20 @@
+id: "1756735993553"
+name: Focus Blue
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.15, 0.25]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.16, 0.26]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.14, 0.24]
+metadata: {}
+icon: mdi:brain
