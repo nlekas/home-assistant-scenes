@@ -1,0 +1,66 @@
+id: "1756697513381"
+name: Neon Party
+entities:
+  light.bloom_light_noah_dresser:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.234, 0.123]
+  light.bloom_light_sarah_dresser:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.234]
+  light.master_overbed:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.189, 0.456]
+  light.master_underbed:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.345, 0.123]
+  light.noah_bedside:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.123, 0.345]
+  light.noah_gradient_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.234, 0.123]
+  light.noah_play_bar:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.234]
+  light.noah_shelf:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.189, 0.456]
+  light.sarah_bedside:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.345, 0.123]
+  light.sarah_gradient_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.123, 0.345]
+  light.sarah_shelf:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.234, 0.123]
+  light.tv_lightstrip:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.234]
+metadata: {}
+icon: mdi:party-popper
+

@@ -1,0 +1,377 @@
+id: "1756697513378"
+name: Rose Colored Glasses
+entities:
+  light.bloom_light_noah_dresser:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 330
+      - 11.765
+    rgb_color:
+      - 255
+      - 225
+      - 240
+    xy_color:
+      - 0.345
+      - 0.311
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Bloom Light Noah Dresser
+    supported_features: 44
+    state: "on"
+  light.bloom_light_sarah_dresser:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 6.885
+      - 23.922
+    rgb_color:
+      - 255
+      - 201
+      - 194
+    xy_color:
+      - 0.398
+      - 0.331
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Bloom Light Sarah Dresser
+    supported_features: 44
+    state: "on"
+  light.master_overbed:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 336.429
+      - 21.961
+    rgb_color:
+      - 255
+      - 199
+      - 221
+    xy_color:
+      - 0.374
+      - 0.301
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Master OverBed
+    supported_features: 44
+    state: "on"
+  light.master_underbed:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 345.882
+      - 13.333
+    rgb_color:
+      - 255
+      - 221
+      - 229
+    xy_color:
+      - 0.356
+      - 0.317
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Master UnderBed
+    supported_features: 44
+    state: "on"
+  light.noah_bedside:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 228.571
+      - 8.235
+    rgb_color:
+      - 234
+      - 238
+      - 255
+    xy_color:
+      - 0.307
+      - 0.312
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Bedside
+    supported_features: 44
+    state: "on"
+  light.noah_gradient_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 330
+      - 11.765
+    rgb_color:
+      - 255
+      - 225
+      - 240
+    xy_color:
+      - 0.34522
+      - 0.311421
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Gradient Lamp
+    supported_features: 44
+    state: "on"
+  light.noah_play_bar:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 6.885
+      - 23.922
+    rgb_color:
+      - 255
+      - 201
+      - 194
+    xy_color:
+      - 0.398
+      - 0.331
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Play Bar
+    supported_features: 44
+    state: "on"
+  light.noah_shelf:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 336.429
+      - 21.961
+    rgb_color:
+      - 255
+      - 199
+      - 221
+    xy_color:
+      - 0.374014
+      - 0.301213
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Shelf
+    supported_features: 44
+    state: "on"
+  light.sarah_bedside:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 347.647
+      - 13.333
+    rgb_color:
+      - 255
+      - 221
+      - 228
+    xy_color:
+      - 0.357
+      - 0.318
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Bedside
+    supported_features: 44
+    state: "on"
+  light.sarah_gradient_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 228.571
+      - 8.235
+    rgb_color:
+      - 234
+      - 238
+      - 255
+    xy_color:
+      - 0.307
+      - 0.311
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Gradient Lamp
+    supported_features: 44
+    state: "on"
+  light.sarah_shelf:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 328
+      - 11.765
+    rgb_color:
+      - 255
+      - 225
+      - 241
+    xy_color:
+      - 0.345
+      - 0.31
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Shelf
+    supported_features: 44
+    state: "on"
+  light.tv_lightstrip:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 336.429
+      - 21.961
+    rgb_color:
+      - 255
+      - 199
+      - 221
+    xy_color:
+      - 0.374
+      - 0.301
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: TV Lightstrip
+    supported_features: 44
+    state: "on"
+metadata: {}
+icon: mdi:auto-fix

@@ -1,0 +1,66 @@
+id: "1756697513388"
+name: Golden Hour
+entities:
+  light.bloom_light_noah_dresser:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.534, 0.465]
+  light.bloom_light_sarah_dresser:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.567, 0.432]
+  light.master_overbed:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.501, 0.498]
+  light.master_underbed:
+    state: "on"
+    brightness: 190
+    color_mode: xy
+    xy_color: [0.523, 0.476]
+  light.noah_bedside:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.578, 0.421]
+  light.noah_gradient_lamp:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.534, 0.465]
+  light.noah_play_bar:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.567, 0.432]
+  light.noah_shelf:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.501, 0.498]
+  light.sarah_bedside:
+    state: "on"
+    brightness: 190
+    color_mode: xy
+    xy_color: [0.523, 0.476]
+  light.sarah_gradient_lamp:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.578, 0.421]
+  light.sarah_shelf:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.534, 0.465]
+  light.tv_lightstrip:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.567, 0.432]
+metadata: {}
+icon: mdi:weather-sunny
+

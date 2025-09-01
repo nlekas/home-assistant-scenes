@@ -1,0 +1,65 @@
+id: "1756697513382"
+name: Forest Mist
+entities:
+  light.bloom_light_noah_dresser:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.234, 0.456]
+  light.bloom_light_sarah_dresser:
+    state: "on"
+    brightness: 150
+    color_mode: xy
+    xy_color: [0.267, 0.489]
+  light.master_overbed:
+    state: "on"
+    brightness: 190
+    color_mode: xy
+    xy_color: [0.201, 0.423]
+  light.master_underbed:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.223, 0.445]
+  light.noah_bedside:
+    state: "on"
+    brightness: 130
+    color_mode: xy
+    xy_color: [0.279, 0.501]
+  light.noah_gradient_lamp:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.234, 0.456]
+  light.noah_play_bar:
+    state: "on"
+    brightness: 150
+    color_mode: xy
+    xy_color: [0.267, 0.489]
+  light.noah_shelf:
+    state: "on"
+    brightness: 190
+    color_mode: xy
+    xy_color: [0.201, 0.423]
+  light.sarah_bedside:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.223, 0.445]
+  light.sarah_gradient_lamp:
+    state: "on"
+    brightness: 130
+    color_mode: xy
+    xy_color: [0.279, 0.501]
+  light.sarah_shelf:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.234, 0.456]
+  light.tv_lightstrip:
+    state: "on"
+    brightness: 150
+    color_mode: xy
+    xy_color: [0.267, 0.489]
+metadata: {}
+icon: mdi:tree

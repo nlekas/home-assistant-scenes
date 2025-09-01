@@ -1,0 +1,66 @@
+id: "1756697513380"
+name: Ocean Depths
+entities:
+  light.bloom_light_noah_dresser:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.156, 0.234]
+  light.bloom_light_sarah_dresser:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.189, 0.267]
+  light.master_overbed:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.123, 0.201]
+  light.master_underbed:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.145, 0.223]
+  light.noah_bedside:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.201, 0.279]
+  light.noah_gradient_lamp:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.156, 0.234]
+  light.noah_play_bar:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.189, 0.267]
+  light.noah_shelf:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.123, 0.201]
+  light.sarah_bedside:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.145, 0.223]
+  light.sarah_gradient_lamp:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.201, 0.279]
+  light.sarah_shelf:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.156, 0.234]
+  light.tv_lightstrip:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.189, 0.267]
+metadata: {}
+icon: mdi:waves
+

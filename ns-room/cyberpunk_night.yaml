@@ -1,0 +1,65 @@
+id: "1756697513387"
+name: Cyberpunk Night
+entities:
+  light.bloom_light_noah_dresser:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.123, 0.456]
+  light.bloom_light_sarah_dresser:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.123]
+  light.master_overbed:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.078, 0.501]
+  light.master_underbed:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.501, 0.078]
+  light.noah_bedside:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.168, 0.411]
+  light.noah_gradient_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.123, 0.456]
+  light.noah_play_bar:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.123]
+  light.noah_shelf:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.078, 0.501]
+  light.sarah_bedside:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.501, 0.078]
+  light.sarah_gradient_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.168, 0.411]
+  light.sarah_shelf:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.123, 0.456]
+  light.tv_lightstrip:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.456, 0.123]
+metadata: {}
+icon: mdi:city
