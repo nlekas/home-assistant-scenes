@@ -1,66 +1,378 @@
-id: "1756697513380"
+id: "1756697513385"
 name: Ocean Depths
 entities:
   light.bloom_light_noah_dresser:
-    state: "on"
-    brightness: 180
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.156, 0.234]
+    brightness: 180
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 240.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.189
+      - 0.456
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Bloom Light Noah Dresser
+    supported_features: 44
+    state: "on"
   light.bloom_light_sarah_dresser:
-    state: "on"
-    brightness: 160
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.189, 0.267]
+    brightness: 160
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 220.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.234
+      - 0.423
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Bloom Light Sarah Dresser
+    supported_features: 44
+    state: "on"
   light.master_overbed:
-    state: "on"
-    brightness: 200
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.123, 0.201]
+    brightness: 200
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 200.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.145
+      - 0.489
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Master Overbed
+    supported_features: 44
+    state: "on"
   light.master_underbed:
-    state: "on"
-    brightness: 170
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.145, 0.223]
+    brightness: 180
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 210.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.167
+      - 0.467
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Master Underbed
+    supported_features: 44
+    state: "on"
   light.noah_bedside:
-    state: "on"
-    brightness: 140
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.201, 0.279]
+    brightness: 140
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 230.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.223
+      - 0.411
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Bedside
+    supported_features: 44
+    state: "on"
   light.noah_gradient_lamp:
-    state: "on"
-    brightness: 180
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.156, 0.234]
+    brightness: 180
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 240.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.189
+      - 0.456
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Gradient Lamp
+    supported_features: 44
+    state: "on"
   light.noah_play_bar:
-    state: "on"
-    brightness: 160
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.189, 0.267]
+    brightness: 160
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 220.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.234
+      - 0.423
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Play Bar
+    supported_features: 44
+    state: "on"
   light.noah_shelf:
-    state: "on"
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
     brightness: 200
-    color_mode: xy
-    xy_color: [0.123, 0.201]
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 200.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.145
+      - 0.489
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Noah Shelf
+    supported_features: 44
+    state: "on"
   light.sarah_bedside:
-    state: "on"
-    brightness: 170
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.145, 0.223]
-  light.sarah_gradient_lamp:
-    state: "on"
-    brightness: 140
-    color_mode: xy
-    xy_color: [0.201, 0.279]
-  light.sarah_shelf:
-    state: "on"
     brightness: 180
-    color_mode: xy
-    xy_color: [0.156, 0.234]
-  light.tv_lightstrip:
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 210.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.167
+      - 0.467
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Bedside
+    supported_features: 44
     state: "on"
-    brightness: 160
+  light.sarah_gradient_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
     color_mode: xy
-    xy_color: [0.189, 0.267]
+    brightness: 140
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 230.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.223
+      - 0.411
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Gradient Lamp
+    supported_features: 44
+    state: "on"
+  light.sarah_shelf:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 180
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 240.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.189
+      - 0.456
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Sarah Shelf
+    supported_features: 44
+    state: "on"
+  light.tv_lightstrip:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 160
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 220.0
+      - 100.0
+    rgb_color:
+      - 0
+      - 0
+      - 255
+    xy_color:
+      - 0.234
+      - 0.423
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: TV Lightstrip
+    supported_features: 44
+    state: "on"
 metadata: {}
 icon: mdi:waves
 

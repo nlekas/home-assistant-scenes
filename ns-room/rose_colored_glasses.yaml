@@ -1,4 +1,4 @@
-id: "1756697513378"
+id: "1756697513384"
 name: Rose Colored Glasses
 entities:
   light.bloom_light_noah_dresser:
@@ -14,19 +14,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 200
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 330
-      - 11.765
+      - 350.0
+      - 100.0
     rgb_color:
       - 255
-      - 225
-      - 240
+      - 0
+      - 128
     xy_color:
-      - 0.345
-      - 0.311
+      - 0.567
+      - 0.432
     off_with_transition: false
     off_brightness: null
     friendly_name: Bloom Light Noah Dresser
@@ -45,19 +45,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 180
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 6.885
-      - 23.922
+      - 340.0
+      - 100.0
     rgb_color:
       - 255
-      - 201
-      - 194
+      - 0
+      - 128
     xy_color:
-      - 0.398
-      - 0.331
+      - 0.612
+      - 0.386
     off_with_transition: false
     off_brightness: null
     friendly_name: Bloom Light Sarah Dresser
@@ -76,22 +76,22 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 220
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 336.429
-      - 21.961
+      - 360.0
+      - 100.0
     rgb_color:
       - 255
-      - 199
-      - 221
+      - 0
+      - 128
     xy_color:
-      - 0.374
-      - 0.301
+      - 0.534
+      - 0.465
     off_with_transition: false
     off_brightness: null
-    friendly_name: Master OverBed
+    friendly_name: Master Overbed
     supported_features: 44
     state: "on"
   light.master_underbed:
@@ -107,22 +107,22 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 190
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 345.882
-      - 13.333
+      - 350.0
+      - 100.0
     rgb_color:
       - 255
-      - 221
-      - 229
+      - 0
+      - 128
     xy_color:
-      - 0.356
-      - 0.317
+      - 0.589
+      - 0.410
     off_with_transition: false
     off_brightness: null
-    friendly_name: Master UnderBed
+    friendly_name: Master Underbed
     supported_features: 44
     state: "on"
   light.noah_bedside:
@@ -138,19 +138,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 160
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 228.571
-      - 8.235
+      - 330.0
+      - 100.0
     rgb_color:
-      - 234
-      - 238
       - 255
+      - 0
+      - 128
     xy_color:
-      - 0.307
-      - 0.312
+      - 0.645
+      - 0.354
     off_with_transition: false
     off_brightness: null
     friendly_name: Noah Bedside
@@ -169,19 +169,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 200
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 330
-      - 11.765
+      - 350.0
+      - 100.0
     rgb_color:
       - 255
-      - 225
-      - 240
+      - 0
+      - 128
     xy_color:
-      - 0.34522
-      - 0.311421
+      - 0.567
+      - 0.432
     off_with_transition: false
     off_brightness: null
     friendly_name: Noah Gradient Lamp
@@ -200,19 +200,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 180
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 6.885
-      - 23.922
+      - 340.0
+      - 100.0
     rgb_color:
       - 255
-      - 201
-      - 194
+      - 0
+      - 128
     xy_color:
-      - 0.398
-      - 0.331
+      - 0.612
+      - 0.386
     off_with_transition: false
     off_brightness: null
     friendly_name: Noah Play Bar
@@ -231,19 +231,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 220
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 336.429
-      - 21.961
+      - 360.0
+      - 100.0
     rgb_color:
       - 255
-      - 199
-      - 221
+      - 0
+      - 128
     xy_color:
-      - 0.374014
-      - 0.301213
+      - 0.534
+      - 0.465
     off_with_transition: false
     off_brightness: null
     friendly_name: Noah Shelf
@@ -262,19 +262,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 190
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 347.647
-      - 13.333
+      - 350.0
+      - 100.0
     rgb_color:
       - 255
-      - 221
-      - 228
+      - 0
+      - 128
     xy_color:
-      - 0.357
-      - 0.318
+      - 0.589
+      - 0.410
     off_with_transition: false
     off_brightness: null
     friendly_name: Sarah Bedside
@@ -293,19 +293,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 160
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 228.571
-      - 8.235
+      - 330.0
+      - 100.0
     rgb_color:
-      - 234
-      - 238
       - 255
+      - 0
+      - 128
     xy_color:
-      - 0.307
-      - 0.311
+      - 0.645
+      - 0.354
     off_with_transition: false
     off_brightness: null
     friendly_name: Sarah Gradient Lamp
@@ -324,19 +324,19 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 200
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 328
-      - 11.765
+      - 350.0
+      - 100.0
     rgb_color:
       - 255
-      - 225
-      - 241
+      - 0
+      - 128
     xy_color:
-      - 0.345
-      - 0.31
+      - 0.567
+      - 0.432
     off_with_transition: false
     off_brightness: null
     friendly_name: Sarah Shelf
@@ -355,23 +355,23 @@ entities:
       - xy
     effect: "off"
     color_mode: xy
-    brightness: 254
+    brightness: 180
     color_temp_kelvin: null
     color_temp: null
     hs_color:
-      - 336.429
-      - 21.961
+      - 340.0
+      - 100.0
     rgb_color:
       - 255
-      - 199
-      - 221
+      - 0
+      - 128
     xy_color:
-      - 0.374
-      - 0.301
+      - 0.612
+      - 0.386
     off_with_transition: false
     off_brightness: null
     friendly_name: TV Lightstrip
     supported_features: 44
     state: "on"
 metadata: {}
-icon: mdi:auto-fix
+icon: mdi:glasses
