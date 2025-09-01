@@ -1,0 +1,97 @@
+id: "1756736784960"
+name: Yuna Scene Template
+entities:
+  light.hue_bloom_yuna:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: colorloop
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 358.808
+      - 59.216
+    rgb_color:
+      - 255
+      - 104
+      - 107
+    xy_color:
+      - 0.573
+      - 0.307
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Hue Bloom Yuna
+    supported_features: 44
+    state: "on"
+  light.signe_gradient_table_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: colorloop
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 309.903
+      - 40.392
+    rgb_color:
+      - 255
+      - 152
+      - 238
+    xy_color:
+      - 0.377798
+      - 0.236591
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Signe gradient table lamp
+    supported_features: 44
+    state: "on"
+  light.yuna_overbed:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: colorloop
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 93.333
+      - 45.882
+    rgb_color:
+      - 190
+      - 255
+      - 138
+    xy_color:
+      - 0.319
+      - 0.49
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Yuna Overbed
+    supported_features: 44
+    state: "on"
+metadata: {}

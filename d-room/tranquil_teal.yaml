@@ -1,0 +1,20 @@
+id: "1756735993558"
+name: Tranquil Teal
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 120
+    color_mode: xy
+    xy_color: [0.18, 0.35]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 100
+    color_mode: xy
+    xy_color: [0.19, 0.36]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 80
+    color_mode: xy
+    xy_color: [0.17, 0.34]
+metadata: {}
+icon: mdi:meditation

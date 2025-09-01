@@ -1,0 +1,20 @@
+id: "1756736784961"
+name: Morning Bliss
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.45, 0.42]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.47, 0.44]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.46, 0.43]
+metadata: {}
+icon: mdi:weather-sunny

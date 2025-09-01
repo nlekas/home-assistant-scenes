@@ -1,0 +1,20 @@
+id: "1756736784971"
+name: Concentrate
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.31, 0.32]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.31, 0.32]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.31, 0.32]
+metadata: {}
+icon: mdi:brain

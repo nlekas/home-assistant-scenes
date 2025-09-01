@@ -1,0 +1,20 @@
+id: "1756736784970"
+name: Bright
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+metadata: {}
+icon: mdi:lightbulb

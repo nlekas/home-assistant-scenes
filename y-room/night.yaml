@@ -1,0 +1,20 @@
+id: "1756736784973"
+name: Night
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+metadata: {}
+icon: mdi:weather-night

@@ -1,0 +1,20 @@
+id: "1756736784963"
+name: Calm Lavender
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.30, 0.25]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.32, 0.27]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 120
+    color_mode: xy
+    xy_color: [0.28, 0.23]
+metadata: {}
+icon: mdi:flower

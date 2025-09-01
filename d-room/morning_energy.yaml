@@ -1,0 +1,20 @@
+id: "1756735993552"
+name: Morning Energy
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.45, 0.45]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.47, 0.47]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 254
+    color_mode: xy
+    xy_color: [0.46, 0.46]
+metadata: {}
+icon: mdi:weather-sunny

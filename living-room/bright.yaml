@@ -1,0 +1,50 @@
+id: "1756627847756"
+name: Bright
+entities:
+  light.lamp_by_stairs:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_japanese_paper_latern_candleabra_bulb_1:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_japanese_paper_latern_candleabra_bulb_2:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_japanese_paper_latern_candleabra_bulb_3:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_japanese_paper_latern_candleabra_bulb_4:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_japanese_paper_latern_candleabra_bulb_5:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_shelf_lightstrip_plus:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_table_lamp_fire_place:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+  light.living_room_tv_gradient_lightstrip:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.33, 0.33]
+metadata: {}
+icon: mdi:lightbulb

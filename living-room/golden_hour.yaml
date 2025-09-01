@@ -1,0 +1,50 @@
+id: "1756627847753"
+name: Golden Hour
+entities:
+  light.lamp_by_stairs:
+    state: "on"
+    brightness: 190
+    color_mode: xy
+    xy_color: [0.52, 0.42]
+  light.living_room_japanese_paper_latern_candleabra_bulb_1:
+    state: "on"
+    brightness: 210
+    color_mode: xy
+    xy_color: [0.55, 0.45]
+  light.living_room_japanese_paper_latern_candleabra_bulb_2:
+    state: "on"
+    brightness: 205
+    color_mode: xy
+    xy_color: [0.53, 0.43]
+  light.living_room_japanese_paper_latern_candleabra_bulb_3:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.54, 0.44]
+  light.living_room_japanese_paper_latern_candleabra_bulb_4:
+    state: "on"
+    brightness: 195
+    color_mode: xy
+    xy_color: [0.51, 0.41]
+  light.living_room_japanese_paper_latern_candleabra_bulb_5:
+    state: "on"
+    brightness: 215
+    color_mode: xy
+    xy_color: [0.56, 0.46]
+  light.living_room_shelf_lightstrip_plus:
+    state: "on"
+    brightness: 170
+    color_mode: xy
+    xy_color: [0.52, 0.42]
+  light.living_room_table_lamp_fire_place:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.53, 0.43]
+  light.living_room_tv_gradient_lightstrip:
+    state: "on"
+    brightness: 150
+    color_mode: xy
+    xy_color: [0.50, 0.40]
+metadata: {}
+icon: mdi:weather-sunset-up

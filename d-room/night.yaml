@@ -1,0 +1,20 @@
+id: "1756735993564"
+name: Night
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 25
+    color_mode: xy
+    xy_color: [0.70, 0.30]
+metadata: {}
+icon: mdi:weather-night

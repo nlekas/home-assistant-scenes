@@ -1,0 +1,20 @@
+id: "1756736784972"
+name: Energize
+entities:
+  light.hue_bloom_yuna:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.29, 0.31]
+  light.signe_gradient_table_lamp:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.29, 0.31]
+  light.yuna_overbed:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.29, 0.31]
+metadata: {}
+icon: mdi:weather-sunny

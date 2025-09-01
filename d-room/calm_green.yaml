@@ -1,0 +1,20 @@
+id: "1756735993556"
+name: Calm Green
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 160
+    color_mode: xy
+    xy_color: [0.25, 0.45]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 140
+    color_mode: xy
+    xy_color: [0.26, 0.46]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 120
+    color_mode: xy
+    xy_color: [0.24, 0.44]
+metadata: {}
+icon: mdi:leaf

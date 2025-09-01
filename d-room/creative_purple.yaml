@@ -1,0 +1,20 @@
+id: "1756735993554"
+name: Creative Purple
+entities:
+  light.daxos_desk_lamp:
+    state: "on"
+    brightness: 220
+    color_mode: xy
+    xy_color: [0.35, 0.15]
+  light.daxos_shelf_lamp:
+    state: "on"
+    brightness: 200
+    color_mode: xy
+    xy_color: [0.36, 0.14]
+  light.daxos_top_of_shelf:
+    state: "on"
+    brightness: 180
+    color_mode: xy
+    xy_color: [0.34, 0.16]
+metadata: {}
+icon: mdi:palette

@@ -1,0 +1,97 @@
+id: "1756735993551"
+name: Daxos Scene Template
+entities:
+  light.daxos_desk_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 196.531
+      - 76.863
+    rgb_color:
+      - 59
+      - 201
+      - 255
+    xy_color:
+      - 0.158541
+      - 0.255879
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Daxos Desk Lamp
+    supported_features: 44
+    state: "on"
+  light.daxos_shelf_lamp:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: "off"
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 162.115
+      - 81.569
+    rgb_color:
+      - 47
+      - 255
+      - 193
+    xy_color:
+      - 0.166125
+      - 0.449912
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Daxos Shelf Lamp
+    supported_features: 44
+    state: "on"
+  light.daxos_top_of_shelf:
+    min_color_temp_kelvin: 2000
+    max_color_temp_kelvin: 6535
+    min_mireds: 153
+    max_mireds: 500
+    effect_list:
+      - "off"
+      - colorloop
+    supported_color_modes:
+      - color_temp
+      - xy
+    effect: colorloop
+    color_mode: xy
+    brightness: 254
+    color_temp_kelvin: null
+    color_temp: null
+    hs_color:
+      - 132.527
+      - 35.686
+    rgb_color:
+      - 164
+      - 255
+      - 183
+    xy_color:
+      - 0.263142
+      - 0.43888
+    off_with_transition: false
+    off_brightness: null
+    friendly_name: Daxos Top of Shelf
+    supported_features: 44
+    state: "on"
+metadata: {}
